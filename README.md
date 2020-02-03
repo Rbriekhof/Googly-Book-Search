@@ -20,6 +20,6 @@ This is a React-based Google Books Search app. You are able to search for books 
 
 ### Live site
 
-* deployed: 
+* deployed: https://googley-book-search.herokuapp.com/
 
 
